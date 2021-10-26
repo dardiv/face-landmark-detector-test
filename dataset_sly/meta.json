@@ -1,0 +1,70 @@
+{
+  "classes": [
+    {
+      "title": "left_eye_inner_corner",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "left_eye_outer_corner",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "right_eye_inner_corner",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "right_eye_outer_corner",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "left_eyebrow_inner_end",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "left_eyebrow_outer_end",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "right_eyebrow_inner_end",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "right_eyebrow_outer_end",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "nose_tip",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "mouth_left_corner",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "mouth_right_corner",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "mouth_center_top_lip",
+      "shape": "point",
+      "color": "#00FF12"
+    },
+    {
+      "title": "mouth_center_bottom_lip",
+      "shape": "point",
+      "color": "#00FF12"
+    }
+  ],
+  "tags": []
+}
